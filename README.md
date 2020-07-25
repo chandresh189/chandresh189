@@ -20,7 +20,7 @@ HI  Welcome to my ReadMe
 ---
 
 <a href="https://twitter.com/chandresh1999?s=20">
-<img align="centre" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="centre" alt=" | Twitter" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/chandresh-singh-a01386169">
 <img align="centre" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
