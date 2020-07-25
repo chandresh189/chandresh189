@@ -23,9 +23,9 @@ HI  Welcome to my ReadMe
 <img align="centre" alt=" | Twitter" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/chandresh-singh-a01386169">
-<img align="centre" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="centre" alt="LinkdeIN" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
 <a href="https://instagram.com/chandresh_189?igshid=7tbso6as7my5">
-<img align="centre" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="centre" alt="Instagram" width="22px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
 </a>
 
 
