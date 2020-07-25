@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working as a student.
 - 🌱 I’m currently learning fundamentals of different technologies.
