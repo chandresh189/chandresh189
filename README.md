@@ -3,20 +3,16 @@
 
 **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a student.
-- 🌱 I’m currently learning fundamentals of differnt technologies.
+- 🌱 I’m currently learning fundamentals of different technologies.
 - 👯 I’m looking to collaborate on some open source data science projects.
 - 🤔 I’m looking for help with data science projects.
 - 💬 Ask me about anything related to tech.
-- 📫 How to reach me: via twitter,linkidn and gmail (given below)
-- 😄 Pronouns: chandreshJi
-- ⚡ Fact: I like capturing moments of life and nature byn phones camera.
+- 📫 How to reach me: via twitter,linkidn and gmail.
+- ⚡ Fact: I like capturing moments of life and exploring places.
 ![Chandresh's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
 # Profile
 
-HI  Welcome to my ReadMe 
 ---
 
 <a href="https://twitter.com/chandresh1999?s=20">
@@ -32,20 +28,20 @@ HI  Welcome to my ReadMe
 ```
 export default () => ({
   askMeAbout: [
-    "coder", "tech", "music",
+    "coding", "technology", "travelling",
     "mathematics", "curious"
   ],
   technologies: {
   data science{
-  ********
+  [Zomato Data Analysis];
     }
     AR: {
-        snapchat:lens studio];
+        [Snapchat:Lens Studio];
        },
-    languages: ["C++", "C", "python"],
+    languages: ["C++", "C", "Python"],
     databases: ["MySQL"],
-    Additional : ["REgrex","****"];
-    Volunteer/social works:["green dream foundation"] ;
+    training : ["Data Science","Embeded C"];
+    Volunteer/social works:["Green Dream Foundation"] ;
     },
   },
 });
