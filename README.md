@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on some open source data science projects.
 - 🤔 I’m looking for help with data science projects.
 - 💬 Ask me about anything related to tech.
-- 📫 How to reach me: via twitter,linkidn and gmail.
+- 📫 How to reach me: via twitter,linkedin and gmail.
 - ⚡ Fact: I like capturing moments of life and exploring places.
 
 ![Chandresh's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
