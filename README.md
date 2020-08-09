@@ -10,8 +10,15 @@
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: via twitter,linkedin and gmail.
 - ⚡ Fact: I like capturing moments of life and exploring places.
-
-![Chandresh's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
+<p align="center">
+  ![Chandresh's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
+</p>
+<!--
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chandresh189/count.svg" />
+</p>
+-->
 # Profile
 
 ---
