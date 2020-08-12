@@ -47,7 +47,7 @@ export default () => ({
     languages: ["C++", "C", "Python"],
     databases: ["MySQL"],
     training : ["Data Science","Embedded C"];
-    Volunteer/social works:["Green Dream Foundation"] ;
+    Volunteer/social works:["Green Dream Foundation",[Aashman Foundation]] ;
     },
   },
 });
