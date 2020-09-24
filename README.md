@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm [Chandresh!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
 
 <!-- **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,16 +10,16 @@
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: via twitter,linkedin and gmail.
 - ⚡ Fact: I like capturing moments of life and exploring places.
-  ![Chandresh's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
+
 <!--
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chandresh189/count.svg" />
 </p>
 -->
-## Profile
 
----
+## Profile
+<br/>
 
 <a href="https://twitter.com/chandresh1999?s=20">
 <img align="centre" alt=" | Twitter" width="30px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
@@ -47,7 +47,7 @@ export default () => ({
     languages: ["C++", "C", "Python"],
     databases: ["MySQL"],
     training : ["Data Science","Embedded C"];
-    Volunteer/social works:["Green Dream Foundation",[Aashman Foundation]] ;
+    Volunteer/social works:["Green Dream Foundation"] ;
     },
   },
 });
