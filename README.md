@@ -1,9 +1,10 @@
+  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)" />
+
 ### Hola, I'm [Chandresh!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
 
 <!-- **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)" />
 - 🔭 I’m currently working as a student.
 - 🌱 I’m currently learning fundamentals of different technologies.
 - 👯 I’m looking to collaborate on some open source data science projects.
