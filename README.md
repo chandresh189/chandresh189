@@ -50,7 +50,7 @@ export default () => ({
     databases: ["MySQL"],
     training : ["Data Science","Embedded C"];
     Volunteer/social works:["Green Dream Foundation"] ;
-    },
+    }, 
   },
 });
 ```
