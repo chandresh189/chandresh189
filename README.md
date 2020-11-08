@@ -36,7 +36,7 @@
 export default () => ({
   askMeAbout: [
     "coding", "technology", "travelling",
-    "mathematics", "curious"
+     "curious"
   ],
   technologies: {
   data science{
