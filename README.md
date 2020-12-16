@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&theme=dark&hide_border=true)" />
+  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)" />
 
 ### Hola, I'm [Chandresh!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
