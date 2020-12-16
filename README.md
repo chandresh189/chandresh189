@@ -23,12 +23,12 @@
 <br/>
 
 <a href="https://twitter.com/chandresh1999?s=20">
-<img align="centre" alt=" | Twitter" width="30px" src="https://img.icons8.com/fluent/50/000000/twitter.png" />
+<img align="centre" alt=" | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chandresh-singh-a01386169">
-<img align="centre" alt="LinkdeIN" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
+<img align="centre" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://instagram.com/chandresh_189?igshid=7tbso6as7my5">
-<img align="centre" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+<img align="centre" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
