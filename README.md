@@ -5,9 +5,8 @@
 <!-- **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working as a Student.
-- 🌱 I’m currently learning fundamentals of different technologies.
+- 🌱 I’m currently exploring different technologies.
 - 👯 I’m looking to collaborate on some open source data science projects.
-- 🤔 I’m looking for help with data science projects.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: via twitter,linkedin and gmail.
 - ⚡ Fact: I like capturing moments of life and exploring places.
