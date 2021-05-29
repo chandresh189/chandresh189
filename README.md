@@ -21,7 +21,7 @@
 ## Profile
 <br/>
 
-<a href="https://twitter.com/chandresh1999?s=20">
+<a href="https://twitter.com/Chandreshsingh_?s=20">
 <img align="centre" alt=" | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chandresh-singh-a01386169">
