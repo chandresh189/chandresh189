@@ -4,11 +4,11 @@
 
 <!-- **chandresh189/chandresh189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working as a Student.
-- 🌱 I’m currently exploring different technologies.
-- 👯 I’m looking to collaborate on some open source data science projects.
+- 🔭 I’m currently working as a SDE at Axestrack Software Solutions.
+- 🌱 I’m currently exploring different technologies but working mainly on Backend (Java).
+- 👯 I’m looking to collaborate on some open source projects.
 - 💬 Ask me about anything related to tech.
-- 📫 How to reach me: via twitter,linkedin and gmail.
+- 📫 How to reach me: via twitter, linkedin and gmail.
 - ⚡ Fact: I like capturing moments of life and exploring places.
 
 <!--
@@ -44,7 +44,7 @@ export default () => ({
     AR: {
         [Snapchat:Lens Studio];
        },
-    languages: ["C++", "C", "Python"],
+    languages: ["C++", "C", "Python", "Java"],
     databases: ["MySQL"],
     training : ["Data Science","Embedded C"];
     Volunteer/social works:["Green Dream Foundation"] ;
