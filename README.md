@@ -45,7 +45,9 @@ export default () => ({
         [Snapchat:Lens Studio];
        },
     languages: ["C++", "C", "Python", "Java"],
-    databases: ["MySQL"],
+    databases: ["MySQL", "PostgreSQL"],
+    frameworks: ["Spring Boot"],
+    version control: ["git"],
     training : ["Data Science","Embedded C"];
     Volunteer/social works:["Green Dream Foundation"] ;
     }, 
